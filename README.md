@@ -48,7 +48,7 @@ Let's build the dream team: https://github.com/kaodim/JoinTheKrew#open-positions
 
 ### Open source
 
-* [VCheck](https://github.com/kaodim/kd-vcheck) – Version check endpoint to scrape application metadata from iTunes and Play Store
+* [VCheck](https://github.com/kaodim/store-scrape) – Version check endpoint to scrape application metadata from iTunes and Play Store
 
 ## Questions?
 

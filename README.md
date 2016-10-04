@@ -2,7 +2,7 @@
 Let's build the dream team: https://github.com/kaodim/JoinTheKrew#open-positions
 
 
-# Jobs @ HotelQuickly Engineering
+# Jobs @ Kaodim Engineering
 
 ### Get the Silicon Valley experience at our exciting startup in Bangkok
 

@@ -50,9 +50,6 @@ Let's build the dream team: https://github.com/kaodim/JoinTheKrew#open-positions
 
 * [VCheck](https://github.com/kaodim/kd-vcheck) – Version check endpoint to scrape application metadata from iTunes and Play Store
 
-Feel free to check our company's [GitHub account](https://github.com/HotelQuickly/).
-
-
 ## Questions?
 
 Reach out: tech@kaodim.com

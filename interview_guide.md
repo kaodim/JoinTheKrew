@@ -11,7 +11,7 @@ After the technical questions, the candidates will be asked questions related to
 
 Throughout the interview process, we assess candidates for skills that we believe will help them be successful in a startup environment. 
 
-During the interview rounds, the candidates should employ google-fu to their comfort level, and be able communicate their thought processes. We do prefer engineers with a penchant for reading and writing documentation, too. We believe the interview process as a [learning process](/blob/master/continuous_learning.md) in itself, and would like to the candidates take advantage of it. 
+During the interview rounds, the candidates should employ google-fu to their comfort level, and be able communicate their thought processes. We do prefer engineers with a penchant for reading and writing documentation, too. We believe the interview process as a [learning process](/continuous_learning.md) in itself, and would like to the candidates take advantage of it. 
 
 We don't believe in hiring rockstars, wizards or imaginary creatures. 
 We seek to hire teammates who continue to add to the diversity of skills and personality within the team. 

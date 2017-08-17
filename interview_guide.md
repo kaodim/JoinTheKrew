@@ -29,7 +29,7 @@ We aim to continuously provide value to ourselves and the rest of the team, and 
 
 We look forward to your applications just as much.
 
-![Kaodim](https://d2h27eox9il2f2.cloudfront.net/kaodim-logo-big-red%402x.png)
+![Kaodim](https://d2h27eox9il2f2.cloudfront.net/kaodim-logo-small-red%402x.png)
 
 <!--
 We believe the interview process as a [learning process](/continuous_learning.md) in itself, and would like to the candidates take advantage of it. 

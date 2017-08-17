@@ -12,8 +12,18 @@ Let's build the dream team. [Open Positions here.](#open-positions-in-the-produc
 
 ### Our Team
 
+Here in Kaodim Engineering, we seek to solve problems. We are a small team of developers building solutions to serve a scale of thousands of transactions daily in the Southeast Asian marketplace. 
 
-### Our Office in Kuala Lumpur 
+![Nerd corner](https://lh3.googleusercontent.com/xzreoy9KOmeVF7AF8GukdQ3k6Q0nGYQBKkN6_R36KstxSmkWushsTfeGKxd0oX1T1kv-ynHO5quI7YINSVwNUWMua32fIU_aGC985olZi9bPRShOyaq15S8KLf120x-14h9ER3Gbjg=w1280-h960-no)
+
+We scale our solutions to the data and feedback from our end users . We *pass the book* and believe in cross-discipline learning in order for us to build a cohesive strategy. We are experimental and pragmatic in problem solving. We agree and disagree in conversations, and are accountable for each other in execution. Above all else, we are a team inside and outside of the rat-race.
+
+We are represented by four countries this year, six historically, and delve into conversations about history, culture, politics, literature and the standard nerd-talk over meals. We have also held the gold medal to Kaodim's annual ping pong tournament two years in the running (2017).
+
+
+<!--
+### Overlooking the Damansara, Kuala Lumpur skyline
+-->
 
 
 ---
@@ -32,15 +42,14 @@ Let's build the dream team. [Open Positions here.](#open-positions-in-the-produc
 1. [Android Engineer](http://careers.kaodim.com/posts/android-engineer-regional)
 1. [Test Engineer](http://careers.kaodim.com/posts/quality-assurance-engineer)
 
-
+<!--
 ### Our core values
+--->
 
----
-
+<!--
 ### Why should you join us? 
-
-
 ### We are agile 
+-->
 
 ### Our stack and technology
 https://stackshare.io/kaodim
@@ -49,22 +58,23 @@ https://stackshare.io/kaodim
 ### Hiring process
 https://github.com/kaodim/JoinTheKrew/blob/master/interview_guide.md
 
+<!--
 ### Compensation and perks 
-
+-->
 ---
 
 ## More about us
-
-
 ### Open source projects
 
 * [VCheck](https://github.com/kaodim/store-scrape)
     Version check endpoint to scrape application metadata from iTunes and Play Store
 * [ATM-EditText](https://github.com/kaodim/ATM-EditText)
     Numeric input field with currency formatting.
+    
+### Our social profiles
+* Twitter [@JoinTheKrew](https://twitter.com/JoinTheKrew)
 
 ## Questions?
-
 Reach out to us at: [tech@kaodim.com](mailto:tech@kaodim.com)
 
 ![Kaodim](https://d2h27eox9il2f2.cloudfront.net/kaodim-logo-small-red%402x.png)

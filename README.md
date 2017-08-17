@@ -13,7 +13,7 @@ Let's build the dream team: https://github.com/kaodim/JoinTheKrew#open-positions
 ### Our Team
 
 
-### Our Office in Bangkok 
+### Our Office in Kuala Lumpur 
 
 
 ---

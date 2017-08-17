@@ -26,6 +26,12 @@ Let's build the dream team. [Open Positions here.](#open-positions-in-the-produc
 ## We are HIRING! 
 ### Open positions in the Product & Engineering Team 
 
+1. [Project Manager](http://careers.kaodim.com/posts/project-manager)
+1. [Ruby on Rails Engineer](http://careers.kaodim.com/posts/back-end-developer)
+1. [iOS Engineer](http://careers.kaodim.com/posts/ios-mobile-application-engineer)
+1. [Android Engineer](http://careers.kaodim.com/posts/android-engineer-regional)
+1. [Test Engineer](http://careers.kaodim.com/posts/quality-assurance-engineer)
+
 
 ### Our core values
 

@@ -12,24 +12,25 @@ Let's build the dream team. [Open Positions here.](#open-positions-in-the-produc
 
 ### Our Team
 
-Here in Kaodim Engineering, we seek to solve problems. We are a small team of developers building solutions to serve a scale of thousands of transactions daily in the Southeast Asian marketplace. 
-
 ![Nerd corner](https://lh3.googleusercontent.com/xzreoy9KOmeVF7AF8GukdQ3k6Q0nGYQBKkN6_R36KstxSmkWushsTfeGKxd0oX1T1kv-ynHO5quI7YINSVwNUWMua32fIU_aGC985olZi9bPRShOyaq15S8KLf120x-14h9ER3Gbjg=w1280-h960-no)
+
+Here in Kaodim Engineering, we seek to solve problems. We are a small team of developers building solutions to serve a scale of thousands of transactions daily in the Southeast Asian marketplace. 
 
 We scale our solutions to the data and feedback from our end users . We *pass the book* and believe in cross-discipline learning in order for us to build a cohesive strategy. We are experimental and pragmatic in problem solving. We agree and disagree in conversations, and are accountable for each other in execution. Above all else, we are a team inside and outside of the rat-race.
 
-We are represented by four countries this year, six historically, and delve into conversations about history, culture, politics, literature and the standard nerd-talk over meals. We have also held the gold medal to Kaodim's annual ping pong tournament two years in the running (2017).
+We are represented by four countries this year, seven historically. This comes with the perk of exchanging conversations about history, culture, politics, literature and the standard nerd-talk over meals. 
+
+We have also held the gold medal to Kaodim's annual ping pong tournament two years in the running (2017). [Must be a tech thing](http://jamesyu.org/2009/01/11/why-table-tennis-is-a-great-hacker-sport/)
 
 
 <!--
 ### Overlooking the Damansara, Kuala Lumpur skyline
 -->
 
-
+<!--
 ---
-
 ## Why to join a startup?
-
+-->
 
 ---
 

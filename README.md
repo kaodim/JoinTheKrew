@@ -4,12 +4,14 @@ Let's build the dream team: https://github.com/kaodim/JoinTheKrew#open-positions
 
 # Jobs @ Kaodim Engineering
 
-### Get the Silicon Valley experience at our exciting startup in Bangkok
+### Help us solve the services marketplace challenge in Southeast Asia
 
 
 ## Who are we?
 
+
 ### Our Team
+
 
 ### Our Office in Bangkok 
 

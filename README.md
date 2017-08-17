@@ -35,10 +35,11 @@ Let's build the dream team: https://github.com/kaodim/JoinTheKrew#open-positions
 ### We are agile 
 
 ### Our stack and technology
+https://stackshare.io/kaodim
 
 
 ### Hiring process
-
+https://github.com/kaodim/JoinTheKrew/blob/master/interview_guide.md
 
 ### Compensation and perks 
 
@@ -46,9 +47,13 @@ Let's build the dream team: https://github.com/kaodim/JoinTheKrew#open-positions
 
 ## More about us
 
+
 ### Open source
 
-* [VCheck](https://github.com/kaodim/store-scrape) – Version check endpoint to scrape application metadata from iTunes and Play Store
+* [VCheck](https://github.com/kaodim/store-scrape)
+    Version check endpoint to scrape application metadata from iTunes and Play Store
+* [ATM-EditText](https://github.com/kaodim/ATM-EditText)
+    Numeric input field with currency formatting.
 
 ## Questions?
 

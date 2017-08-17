@@ -1,5 +1,5 @@
 # JoinTheKrew
-Let's build the dream team: https://github.com/kaodim/JoinTheKrew#open-positions
+Let's build the dream team. [Open Positions here.](#open-positions-in-the-product--engineering-team)
 
 
 # Jobs @ Kaodim Engineering

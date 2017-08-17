@@ -50,7 +50,7 @@ https://github.com/kaodim/JoinTheKrew/blob/master/interview_guide.md
 ## More about us
 
 
-### Open source
+### Open source projects
 
 * [VCheck](https://github.com/kaodim/store-scrape)
     Version check endpoint to scrape application metadata from iTunes and Play Store

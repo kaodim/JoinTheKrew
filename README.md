@@ -59,4 +59,6 @@ https://github.com/kaodim/JoinTheKrew/blob/master/interview_guide.md
 
 ## Questions?
 
-Reach out: tech@kaodim.com
+Reach out to us at: [tech@kaodim.com](mailto:tech@kaodim.com)
+
+![Kaodim](https://d2h27eox9il2f2.cloudfront.net/kaodim-logo-small-red%402x.png)

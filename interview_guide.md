@@ -27,7 +27,7 @@ We don't believe in hiring rockstars, wizards or imaginary creatures.
 
 We aim to continuously provide value to ourselves and the rest of the team, and seek to hire teammates who continue to add to the diversity of skills and personality within the team. To aid with that, we encourage the candidates to be natural, be comfortable and be prepared. 
 
-We look forward to your applications just as much. :smile:
+We look forward to your applications just as much.
 
 ![Kaodim](https://d2h27eox9il2f2.cloudfront.net/kaodim-logo-big-red%402x.png)
 

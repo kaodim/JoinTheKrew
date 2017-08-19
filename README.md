@@ -38,10 +38,10 @@ We have also held the gold medal to Kaodim's annual ping pong tournament two yea
 ### Open positions in the Product & Engineering Team 
 
 1. [Project Manager](http://careers.kaodim.com/posts/project-manager)
-1. [Ruby on Rails Engineer](http://careers.kaodim.com/posts/back-end-developer)
+1. [Test Engineer](http://careers.kaodim.com/posts/quality-assurance-engineer)
 1. [iOS Engineer](http://careers.kaodim.com/posts/ios-mobile-application-engineer)
 1. [Android Engineer](http://careers.kaodim.com/posts/android-engineer-regional)
-1. [Test Engineer](http://careers.kaodim.com/posts/quality-assurance-engineer)
+1. [Ruby on Rails Engineer](http://careers.kaodim.com/posts/back-end-developer)
 
 <!--
 ### Our core values

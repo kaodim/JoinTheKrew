@@ -21,6 +21,7 @@ We do not view the following attributes favorably during the interview process:
 2. General underpreparedness for the interview session. 
 3. Egoistic, disinterest or intentionally flippant personalities.
 
+##
 
 We don't believe in hiring rockstars, wizards or imaginary creatures. 
 

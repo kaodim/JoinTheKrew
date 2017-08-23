@@ -65,7 +65,6 @@ https://github.com/kaodim/JoinTheKrew/blob/master/interview_guide.md
 <!--
 ### Compensation and perks 
 -->
----
 
 ## More about us
 ### Open source projects

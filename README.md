@@ -37,8 +37,6 @@ The Headquarters is accessible by two new MRT stops, [Bandar Utama](http://www.m
 ## Why to join a startup?
 -->
 
----
-
 ## We are HIRING! 
 ### Open positions in the Product & Engineering Team 
 

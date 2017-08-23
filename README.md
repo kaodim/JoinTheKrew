@@ -71,9 +71,9 @@ https://github.com/kaodim/JoinTheKrew/blob/master/interview_guide.md
 ### Open source projects
 
 * [VCheck](https://github.com/kaodim/store-scrape)
-    Version check endpoint to scrape application metadata from iTunes and Play Store
+    * Version check endpoint to scrape application metadata from iTunes and Play Store
 * [ATM-EditText](https://github.com/kaodim/ATM-EditText)
-    Numeric input field with currency formatting.
+    * Numeric input field with currency formatting.
     
 ### Our social profiles
 * Twitter [@JoinTheKrew](https://twitter.com/JoinTheKrew)

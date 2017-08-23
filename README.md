@@ -7,6 +7,10 @@ Let's build the dream team - [Open Positions](#open-positions-in-the-product--en
 ### Help us solve the services marketplace challenge in Southeast Asia
 
 
+> These are true stories of impact and value creation. If we want to accomplish our mission of improving and elevating the experience of hiring services, we need to do what Apple, Grab and other visionary companies have done. We need to reimagine and redefine what our value is to our customers, and how we can deliver that in the best possible package. We need to find ways to make every service and its delivery faster, better and cheaper. Every service type is slightly different, and we'll need to tailor our solutions to each of them as far as possible. Since there are so many types, we'll have to be really methodical and tackle them progressively over time. This is hard work and requires deep thinking, particularly when it comes to balancing the interests between the customer and service provider. But that's our job, and a chance to really bring positive change and impact to this industry. I can't think of a better time and opportunity for any company to do this, with the developments and technological advancements we're seeing in SEA and around the world. 
+
+
+
 ## Who are we?
 
 

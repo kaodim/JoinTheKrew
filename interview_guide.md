@@ -17,9 +17,9 @@ In all the interview rounds, the candidates should employ google-fu to their com
 
 We do not view the following attributes favorably during the interview process:
 
-1. Cliché, hand-wavy responses to technical questions.
+1. Clichéd, non-empirical responses to technical questions. 
 2. General underpreparedness for the interview session. 
-3. Egoistic, disinterest or intentionally flippant personalities.
+3. Poor attitude in communication
 
 ##
 

@@ -35,6 +35,9 @@ The Kaodim Headquarters is centered in Uptown Damansara, surrounded by a mixture
 The Headquarters is accessible by two new MRT stops, [Bandar Utama](http://www.mrt.com.my/stations/Bandar_Utama_Station.htm) and [TTDI](http://www.mrt.com.my/stations/Taman_Tun_Dr_Ismail_Station.htm), and the [Starling shuttle](http://www.duptown.com/getting-to/public-transport) bus service that runs every hour. The Damansara Uptown is also a well known and vibrant part of town, and hence is accessible via your favorite ride-sharing services, [Grab](https://www.grab.com/my/) and ~~[Uber](https://www.uber.com/en-MY/cities/kuala-lumpur/)~~ [MyCar](https://mycar.net.my/) as well.
 
 
+![War Room on Production Release](https://i.imgur.com/szsOfYu.jpg)
+Shipping to Production
+
 <!--
 ---
 ## Why to join a startup?

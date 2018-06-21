@@ -10,7 +10,6 @@ Let's build the dream team - [Open Positions](#open-positions-in-the-product--en
 > These are true stories of impact and value creation. If we want to accomplish our mission of improving and elevating the experience of hiring services, we need to do what Apple, Grab and other visionary companies have done. We need to reimagine and redefine what our value is to our customers, and how we can deliver that in the best possible package. We need to find ways to make every service and its delivery faster, better and cheaper. Every service type is slightly different, and we'll need to tailor our solutions to each of them as far as possible. Since there are so many types, we'll have to be really methodical and tackle them progressively over time. This is hard work and requires deep thinking, particularly when it comes to balancing the interests between the customer and service provider. But that's our job, and a chance to really bring positive change and impact to this industry. I can't think of a better time and opportunity for any company to do this, with the developments and technological advancements we're seeing in SEA and around the world. 
 
 
-
 ## Who are we?
 
 
@@ -33,7 +32,7 @@ We have also held the gold medal to Kaodim's annual ping pong tournament two yea
 
 The Kaodim Headquarters is centered in Uptown Damansara, surrounded by a mixture of hipster and local eateries, cafés, watering holes, workshops, banks, post offices and the new [Starling Mall](https://www.thestarling.com.my/) for a us to run our errands or to kick back before and after work.
 
-The Headquarters is accessible by two new MRT stops, [Bandar Utama](http://www.mrt.com.my/stations/Bandar_Utama_Station.htm) and [TTDI](http://www.mrt.com.my/stations/Taman_Tun_Dr_Ismail_Station.htm), and the [Starling shuttle](http://www.duptown.com/getting-to/public-transport) bus service that runs every hour. The Damansara Uptown is also a well known and vibrant part of town, and hence is accessible via your favorite ride-sharing services, [Grab](https://www.grab.com/my/) and [Uber](https://www.uber.com/en-MY/cities/kuala-lumpur/) as well.
+The Headquarters is accessible by two new MRT stops, [Bandar Utama](http://www.mrt.com.my/stations/Bandar_Utama_Station.htm) and [TTDI](http://www.mrt.com.my/stations/Taman_Tun_Dr_Ismail_Station.htm), and the [Starling shuttle](http://www.duptown.com/getting-to/public-transport) bus service that runs every hour. The Damansara Uptown is also a well known and vibrant part of town, and hence is accessible via your favorite ride-sharing services, [Grab](https://www.grab.com/my/) ~~and [Uber](https://www.uber.com/en-MY/cities/kuala-lumpur/) as well~~.
 
 
 <!--

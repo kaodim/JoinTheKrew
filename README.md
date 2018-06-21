@@ -80,6 +80,7 @@ https://github.com/kaodim/JoinTheKrew/blob/master/interview_guide.md
     
 ### Our social profiles
 * Twitter [@JoinTheKrew](https://twitter.com/JoinTheKrew)
+* More Photos here: [Team Album](https://photos.google.com/album/AF1QipMplqazQCizAfBqJWIhjaTZdd2XNX9qPE3f6SSG)
 
 ## Questions?
 Reach out to us at: [tech@kaodim.com](mailto:tech@kaodim.com)

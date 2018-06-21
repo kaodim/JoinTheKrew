@@ -32,7 +32,7 @@ We have also held the gold medal to Kaodim's annual ping pong tournament two yea
 
 The Kaodim Headquarters is centered in Uptown Damansara, surrounded by a mixture of hipster and local eateries, cafés, watering holes, workshops, banks, post offices and the new [Starling Mall](https://www.thestarling.com.my/) for a us to run our errands or to kick back before and after work.
 
-The Headquarters is accessible by two new MRT stops, [Bandar Utama](http://www.mrt.com.my/stations/Bandar_Utama_Station.htm) and [TTDI](http://www.mrt.com.my/stations/Taman_Tun_Dr_Ismail_Station.htm), and the [Starling shuttle](http://www.duptown.com/getting-to/public-transport) bus service that runs every hour. The Damansara Uptown is also a well known and vibrant part of town, and hence is accessible via your favorite ride-sharing services, [Grab](https://www.grab.com/my/) ~~and [Uber](https://www.uber.com/en-MY/cities/kuala-lumpur/) as well~~.
+The Headquarters is accessible by two new MRT stops, [Bandar Utama](http://www.mrt.com.my/stations/Bandar_Utama_Station.htm) and [TTDI](http://www.mrt.com.my/stations/Taman_Tun_Dr_Ismail_Station.htm), and the [Starling shuttle](http://www.duptown.com/getting-to/public-transport) bus service that runs every hour. The Damansara Uptown is also a well known and vibrant part of town, and hence is accessible via your favorite ride-sharing services, [Grab](https://www.grab.com/my/) and ~~[Uber](https://www.uber.com/en-MY/cities/kuala-lumpur/)~~ [MyCar](https://mycar.net.my/) as well.
 
 
 <!--

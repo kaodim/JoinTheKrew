@@ -15,7 +15,7 @@ Let's build the dream team - [Open Positions](#open-positions-in-the-product--en
 
 ### Our Team
 
-![Nerd corner](https://lh3.googleusercontent.com/vpqDAhEiVLAp_1tc-n3Mpz2FxmwWXkpgbRXqQK_nDN7ZPmtWV3pPLXl5rLKV0VJoCnaPj9ncZ_T1xye5UqlE=w2880-h1518-rw)
+![Nerd corner](https://i.imgur.com/CmSaX8S.jpg)
 
 Here in Kaodim Engineering, we seek to solve problems. We are a small team of developers building solutions to serve a scale of thousands of transactions daily in the Southeast Asian marketplace. 
 
@@ -38,7 +38,7 @@ The Kaodim Headquarters is centered in Uptown Damansara, surrounded by a mixture
 The Headquarters is accessible by two new MRT stops, [Bandar Utama](http://www.mrt.com.my/stations/Bandar_Utama_Station.htm) and [TTDI](http://www.mrt.com.my/stations/Taman_Tun_Dr_Ismail_Station.htm), and the [Starling shuttle](http://www.duptown.com/getting-to/public-transport) bus service that runs every hour. The Damansara Uptown is also a well known and vibrant part of town, and hence is accessible via your favorite ride-sharing services, [Grab](https://www.grab.com/my/) and ~~[Uber](https://www.uber.com/en-MY/cities/kuala-lumpur/)~~ [MyCar](https://mycar.net.my/) as well.
 
 
-![Show & Tell](https://lh6.googleusercontent.com/SXY0WR2y7HiZ4vld8dqEZeTnX9TIVqf5gYcxoTjadYZA2fQcTy4udlQCdDPgKXhb1jWQ4tA4fv-bJigSx2NU=w2880-h1518-rw)
+![Show & Tell](https://i.imgur.com/uzAB5va.jpg)
 
 <!--
 ---
@@ -88,7 +88,7 @@ https://github.com/kaodim/JoinTheKrew/blob/master/interview_guide.md
 * Twitter [@JoinTheKrew](https://twitter.com/JoinTheKrew)
 * More Photos here: [Team Album](https://photos.app.goo.gl/5LgK2qvZMMUMuZy6A)
 
-![Life in a collage](https://lh3.googleusercontent.com/yQP_80BceVk0i_8MoxkG9Lv0tEywNNxj97OSHcmSEuXkEOpdecvgRv7h8EqF9n55UcsejvXAX00OSFHxUYMF=w2880-h1518-rw)
+![Life as we know it](https://i.imgur.com/DDoYHNp.jpg)
 
 ## Questions?
 Reach out to us at: [tech@kaodim.com](mailto:tech@kaodim.com)

@@ -59,6 +59,7 @@ The Headquarters is accessible by two new MRT stops, [Bandar Utama](http://www.m
 ### Our core values
 --->
 
+
 <!--
 ### Why should you join us? 
 ### We are agile 
@@ -86,6 +87,8 @@ https://github.com/kaodim/JoinTheKrew/blob/master/interview_guide.md
 ### Our social profiles
 * Twitter [@JoinTheKrew](https://twitter.com/JoinTheKrew)
 * More Photos here: [Team Album](https://photos.app.goo.gl/5LgK2qvZMMUMuZy6A)
+
+![Life in a collage](https://lh3.googleusercontent.com/yQP_80BceVk0i_8MoxkG9Lv0tEywNNxj97OSHcmSEuXkEOpdecvgRv7h8EqF9n55UcsejvXAX00OSFHxUYMF=w2880-h1518-rw)
 
 ## Questions?
 Reach out to us at: [tech@kaodim.com](mailto:tech@kaodim.com)

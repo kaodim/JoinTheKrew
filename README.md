@@ -50,8 +50,9 @@ The Headquarters is accessible by two new MRT stops, [Bandar Utama](http://www.m
 
 1. [Production Engineer](http://careers.kaodim.com/posts/production-engineering)
 1. [Data Engineer](http://careers.kaodim.com/posts/data-engineer-regional)
-1. [Backend Engineer](http://careers.kaodim.com/posts/back-end-developer)
-1. [Test Engineer](http://careers.kaodim.com/posts/quality-assurance-engineer)
+1. [Backend Engineer](http://careers.kaodim.com/posts/software-engineer-backend)
+1. [Web Engineer](http://careers.kaodim.com/posts/frontend-developer-ui-ux)
+1. [Test Automation Engineer](http://careers.kaodim.com/posts/quality-assurance-engineer)
 1. [iOS Engineer](http://careers.kaodim.com/posts/ios-mobile-application-engineer)
 1. [Android Engineer](http://careers.kaodim.com/posts/android-engineer-regional)
 

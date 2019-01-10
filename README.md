@@ -73,6 +73,9 @@ https://stackshare.io/kaodim
 ### Hiring process
 https://github.com/kaodim/JoinTheKrew/blob/master/interview_guide.md
 
+### Our communications site
+https://comms.kaodim.com
+
 <!--
 ### Compensation and perks 
 -->

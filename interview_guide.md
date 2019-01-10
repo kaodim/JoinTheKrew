@@ -5,7 +5,7 @@ The interview process with Kaodim Engineering consists of 2 rounds.
 
 Candidates will first be given a written assessment which covers the technical stack related to the positions they will interviewing for. We expect these written assessments to take an average of 4 hours to complete. The candidates are encouraged to illustrate and provide proof of concepts in their responses. 
 
-In the second round, the candidates will be scheduled for a second round of technical interview in the office, or teleconferencing for remote candidates. The candidates should expect to employ the same skills in round 1, in person. 
+In the second round, the candidates will be scheduled for a second round of technical interview and cultural fit with a panel of interviewers, including the hiring manager. This second round will take place in the office, or teleconferencing for remote candidates. The candidates should expect to employ the same skills in round 1, in person. 
 
 After the technical questions, the interviewing panel will proceed to ask questions about the candidates and what they seek to achieve during their tenure with the team.
 
